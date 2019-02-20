@@ -15,5 +15,8 @@ Ansible versions that are available: 2.3.2 & 2.7.6. All the versions have awscli
 
   - `alopsing/ansible:2.3.2`
   - `alopsing/ansible:2.7.6`
+  - `alopsing/ansible-oc:2.3.2`
+  - `alopsing/ansible-oc:latest`
+  - `alopsing/ansible-oc:2.7.6`
 
 Maintainer: Sai Pola <sai.pola@pb.com>
